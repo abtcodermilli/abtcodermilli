@@ -55,11 +55,9 @@ My long-term goal is to bring together **mobile development, full-stack skills, 
 
 <!--
 PERSONALIZE BEFORE PUBLISHING:
-1. Add your LinkedIn URL in the optional link below, then remove the
-   comment markers around that link.
-2. Add links to real projects you have built. Include what each does,
+1. Add links to real projects you have built. Include what each does,
    the technologies you used, and a live demo if available.
-3. Keep the learning roadmap accurate as your interests develop.
+2. Keep the learning roadmap accurate as your interests develop.
 The badges represent interests and learning areas, not verified proficiency.
 -->
 
@@ -67,9 +65,10 @@ The badges represent interests and learning areas, not verified proficiency.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abtcodermilli)
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](YOUR_LINKEDIN_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ankur-bikram-thapa-02a526380)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapaankur2000@gmail.com)
+
+📬 **Email:** [thapaankur2000@gmail.com](mailto:thapaankur2000@gmail.com)
 
 ---
 
@@ -80,3 +79,4 @@ The badges represent interests and learning areas, not verified proficiency.
 Thanks for visiting — follow along as I learn and build.
 
 </div>
+
