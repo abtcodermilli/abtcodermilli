@@ -33,7 +33,7 @@ I'm a second-year **B.Tech student in Computer Science and Engineering**, workin
 | Area | What I want to explore |
 | :--- | :--- |
 | **iOS Development** | Swift fundamentals, SwiftUI, and native app experiences |
-| **Full-stack development** | Responsive interfaces, APIs, and back-end fundamentals |
+| **Full-stack Development** | Responsive interfaces, APIs, and back-end fundamentals |
 | **Databases** | SQL queries, relational data, and database design |
 | **AI / ML** | Core concepts and small, practical experiments |
 
