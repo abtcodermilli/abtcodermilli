@@ -74,7 +74,7 @@ The badges represent interests and learning areas, not verified proficiency.
 
 <div align="center">
 
-**Ideas into interfaces. Curiosity into code.**
+**Ideas into Interfaces. Curiosity into code.**
 
 Thanks for visiting — follow along as I learn and build.
 
