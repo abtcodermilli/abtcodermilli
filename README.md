@@ -28,7 +28,7 @@ I'm a second-year **B.Tech student in Computer Science and Engineering**, workin
 - 🗄️ Interested in **SQL**, databases, and how applications manage data.
 - 🤝 Happy to connect with fellow learners and developers.
 
-## 🧭 My learning roadmap
+## 🧭 My learning Roadmap
 
 | Area | What I want to explore |
 | :--- | :--- |
